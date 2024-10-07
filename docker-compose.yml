@@ -4,4 +4,4 @@ services :
      build: 
         image: "trainwithshubham/notes-app:latest"
      ports :
-         - "8000:8001"
+         - "8000:8000"
